@@ -1,0 +1,268 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@vocab": "https://tropy.org/v1/tropy#",
+    "template": {
+      "@type": "@id"
+    },
+    "photo": {
+      "@id": "https://tropy.org/v1/tropy#photo",
+      "@container": "@list"
+    },
+    "note": {
+      "@id": "https://tropy.org/v1/tropy#note",
+      "@container": "@list"
+    },
+    "selection": {
+      "@id": "https://tropy.org/v1/tropy#selection",
+      "@container": "@list"
+    },
+    "language": "http://purl.org/dc/elements/1.1/language",
+    "creator": "http://purl.org/dc/elements/1.1/creator",
+    "date": {
+      "@id": "http://purl.org/dc/elements/1.1/date",
+      "@type": "https://tropy.org/v1/tropy#date"
+    },
+    "identifier": "http://purl.org/dc/elements/1.1/identifier",
+    "source": "http://purl.org/dc/elements/1.1/source",
+    "description": "http://purl.org/dc/elements/1.1/description",
+    "publisher": "http://purl.org/dc/elements/1.1/publisher",
+    "rights": "http://purl.org/dc/elements/1.1/rights",
+    "subject": "http://purl.org/dc/elements/1.1/subject",
+    "title": "http://purl.org/dc/elements/1.1/title",
+    "type": "http://purl.org/dc/elements/1.1/type"
+  },
+  "@graph": [
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/dc",
+      "language": "en",
+      "creator": "Nicolas Poussin",
+      "date": "1629-1630",
+      "identifier": "https://smb.museum-digital.de/object/226805",
+      "source": "https://smb.museum-digital.de/object/226805",
+      "description": "This\nintricate, relatively uncommon pictorial theme has its source in the Metamorphoses of Ovid\n(II:19–48), which was made accessible in Italian through a translation and reworking by\nGiovanni Andrea dell’Anguillara (Le Metamorfosi di Ovidio, 1561). The young Phaeton\nkneels before his father, the sun god Helios (who is also identified with Apollo) and requests\npermission to borrow the sun chariot, being prepared by the Horae and visible here in the\nleft-hand background, for one day. This desire will have fatal consequences for the youth.\nHelios, who is seated beneath an arch decorated with zodiacal symbols, is identified by\nApollo’s lyre, and surrounded by personifications of the seasons: the young woman on his\nright, crowned with flowers, and shown proffering flowers to a number of cupids, embodies\nSpringtime; seated behind Phaeton is Summer, who takes the form of a woman holding a\nmirror in her hands; reclining on the right foreground next to a vase filled with grapes is the\nsleeping, inebriated Autumn; and visible to his left is the seated, freezing figure of Winter, at\nwhose feet a pair of braziers, filled with glowing coals, provide a minimal defence against\nthe cold. Striding along behind Winter, finally, is the winged personification of Time, the\nTitan Chronos, the all-devouring father of Zeus. The aged giant eats – as recognized by\nAlessandro Della Latta – a stone: this was a trick of his wife Rea, who wanted to avoid\nhaving Zeus devoured by Chronos alongside her other offspring, and who therefore\nreplaced the newborn with this object. This famous painting was engraved by Nicolas\nPérelle before 1666, and later by the Florentine artist Cesare Fantetti as well, this time\nlaterally reversed. In all likelihood, moreover, this was the same work that was presented by\nthe painter and art dealer Jean-Michel Picart to the Académie royale de peinture et de\nsculpture in 1674 for their appraisal. It also seems possible, despite some uncertainty that\nthe Berlin picture is identical with the painting referred to as “Seasons” in the inventory of\nthe collector Michel Passart in 1684. Beginning in 1773, this mythological composition was\npart of the collection of Frederick the Great, and was included in Oesterreich’s description\nof the Neues Palais in Potsdam. In the past, this work has been given a date that seems too\nlate (1633–38), for it seems to have been executed just before 1630. Certain compositional\nelements are reminiscent for example of Poussin’s Parnassus (Madrid, Museo del Prado,\n1629: the figure of Apollo), or of his Death of Germanicus of 1628 (Minneapolis, Institute of\nArts); the latter painting is also close to the present picture with regard to the colour\nscheme. The colour palette, with its neo-Venetian orientation, and the inspiration from\nantiquity, represents a connection to Poussin’s mythological scenes from the late 1620s,\nwhich involve free adaptations of works by Titian, an especially striking example being the\nMidas and Bacchus in the Alte Pinakothek in Munich. Detectable in the marvellous painting\nDiana and Endymion, formerly in the collection of Cardinal Mazarin and now in the\nInstitute of Arts in Detroit, are significant similarities, and these include the format\n(identical in height, but 15 cm wider), suggesting the possibility that it functioned originally\nas a pendant to the present picture. Thematically as well, a connection with Helios and\nPhaeton cannot be excluded, particularly when we consider the motif of the chariot of\nApollo/Helios in the background, a quadriga drawn by four horses. Also in the Roman\nyears, albeit slightly later, Poussin repeated the chariot of Apollo/Helios, once again\nsurrounded by zodiacal symbols, and set high up in the heavens in his Empire of Flora\n(Dresden, Gemäldegalerie Alte Meister), commissioned by the Marquis of Valguarnera in\n1631. The figure of Apollo in the Berlin picture is repeated in the Parnassus in the Prado and\nin the figure of Crocus in the Dresden Empire of Flora, a masterwork from the first Roman\nyears.| 200 Masterpieces of European Painting - Gemäldegalerie Berlin, 2019",
+      "publisher": "Gemäldegalerie Matthäikirchplatz",
+      "rights": "Gemäldegalerie, Staatliche Museen zu Berlin / Jörg P. Anders (CC BY-NC-SA)",
+      "subject": "Helios and Phaëton with Saturn and the Four Seasons",
+      "title": "Helios and Phaëton with Saturn and the Four Seasons",
+      "type": "Painting",
+      "list": [
+        "Time"
+      ],
+      "tag": [
+        "Time"
+      ],
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "e4eee2534cf4f45494dc6a0c4600c5c0",
+          "color": "rgb(56,40,24,1)",
+          "density": null,
+          "filename": "500w_6436992961a93.jpg",
+          "mimetype": "image/jpeg",
+          "orientation": 1,
+          "page": 0,
+          "path": "C:\\Users\\baroncis\\Documents\\tropy\\test.tropy\\assets\\e4eee2534cf4f45494dc6a0c4600c5c0.jpg",
+          "protocol": "file",
+          "size": 51420,
+          "template": "https://tropy.org/v1/templates/dc",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 393,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 500,
+          "selection": [
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 42,
+              "y": 73,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 185,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 166,
+              "note": [
+                {
+                  "@type": "Note",
+                  "text": {
+                    "@value": "Time",
+                    "@language": "en"
+                  },
+                  "html": {
+                    "@value": "<p>Time</p>",
+                    "@language": "en"
+                  },
+                  "markdown": {
+                    "@value": "Time",
+                    "@language": "en"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Item",
+      "template": "https://tropy.org/v1/templates/dc",
+      "language": "en",
+      "creator": "Francesco Rosselli",
+      "date": "1480s",
+      "description": "This engraving by an anonymous Italian artist was made after Francesco Rosselli's composition. It belongs to a series of six illustrating Francesco Petrarch's short poem the 'Triumphs', written between 1340 and 1374.",
+      "publisher": "Web Gallery of Art",
+      "rights": "Web Gallery of Art",
+      "source": "https://www.wga.hu/index_search.html",
+      "subject": "Triumph of Time",
+      "title": "The triumph of Time",
+      "type": "Engraving",
+      "list": [
+        "Time"
+      ],
+      "tag": [
+        "Time",
+        "Triumph of Time"
+      ],
+      "photo": [
+        {
+          "@type": "Photo",
+          "checksum": "6b6c0a390160e09434fb4f236ab8991b",
+          "color": "rgb(248,232,200,1)",
+          "density": null,
+          "filename": "triumph3.jpg\"",
+          "mimetype": "image/jpeg",
+          "orientation": 1,
+          "page": 0,
+          "path": "C:\\Users\\baroncis\\Documents\\tropy\\test.tropy\\assets\\6b6c0a390160e09434fb4f236ab8991b.jpg",
+          "protocol": "file",
+          "size": 245336,
+          "template": "https://tropy.org/v1/templates/dc",
+          "angle": 0,
+          "brightness": 0,
+          "contrast": 0,
+          "height": 1300,
+          "hue": 0,
+          "mirror": false,
+          "negative": false,
+          "saturation": 0,
+          "sharpen": 0,
+          "width": 849,
+          "selection": [
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 344,
+              "y": 144,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 341,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 257,
+              "note": [
+                {
+                  "@type": "Note",
+                  "text": {
+                    "@value": "Father Time",
+                    "@language": "en"
+                  },
+                  "html": {
+                    "@value": "<p>Father Time</p>",
+                    "@language": "en"
+                  },
+                  "markdown": {
+                    "@value": "Father Time",
+                    "@language": "en"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 219,
+              "y": 378,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 431,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 545,
+              "note": [
+                {
+                  "@type": "Note",
+                  "text": {
+                    "@value": "Chariot",
+                    "@language": "en"
+                  },
+                  "html": {
+                    "@value": "<p>Chariot</p>",
+                    "@language": "en"
+                  },
+                  "markdown": {
+                    "@value": "Chariot",
+                    "@language": "en"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Selection",
+              "template": "https://tropy.org/v1/templates/selection",
+              "x": 309,
+              "y": 544,
+              "angle": 0,
+              "brightness": 0,
+              "contrast": 0,
+              "height": 396,
+              "hue": 0,
+              "mirror": false,
+              "negative": false,
+              "saturation": 0,
+              "sharpen": 0,
+              "width": 538,
+              "note": [
+                {
+                  "@type": "Note",
+                  "text": {
+                    "@value": "Deers",
+                    "@language": "en"
+                  },
+                  "html": {
+                    "@value": "<p>Deers</p>",
+                    "@language": "en"
+                  },
+                  "markdown": {
+                    "@value": "Deers",
+                    "@language": "en"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "version": "1.17.2"
+}
